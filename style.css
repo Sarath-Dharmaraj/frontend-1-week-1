@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #000;
+}
+
+h1, h2 {
+    text-decoration: underline;
+    margin-top: 0;
+}
+
+a {
+    color: #000;
+    text-decoration: underline;
+}
+
+.blog-section {
+    border: 1px solid #000;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.image-section {
+    margin-bottom: 25px;
+}
+
+.image-section img {
+    width: 450px;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.trivia-section ol {
+    padding-left: 20px;
+    line-height: 1.6;
+}
